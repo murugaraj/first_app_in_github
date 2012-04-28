@@ -4,5 +4,5 @@ This is the first application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) 
 by [Michael Hartl](http://michaelhartl.com/).
 
-Test commit on Apr-28-2012
+Test commit on Apr-28-2012 from ubuntu	
 
